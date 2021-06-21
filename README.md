@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gauravjain9600
 - 👀 I’m interested in coding
 - 🌱 I’m currently a student in IT Engineering
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ I’m looking to collaborate on python projects and front-end development
 - 📫 How to reach me instagram : gauravjain9600
 
 <!---
